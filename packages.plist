@@ -3459,6 +3459,7 @@
 				descriptions = {
 					en = "*Edit > Start MCP Server* exposes Glyphs tools via the Model Context Protocol for agent integration.";
 				};
+				screenshot = https://raw.githubusercontent.com/thierryc/Glyphs-mcp/refs/heads/main/GlyphsMcpScreenshot.png";
 			},
 			// *** INSERT NEW PLUG-INS ABOVE THIS LINE
 		);
