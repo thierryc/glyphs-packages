@@ -3870,7 +3870,7 @@
 				url = "https://github.com/thierryc/GlyphsIconGrid";
 				branch = "lit/release-0.1.0";
 				path = "IconGrid.glyphsReporter";
-				screenshot = "https://raw.githubusercontent.com/thierryc/GlyphsIconGrid/3a657413f81e0a258d25dc36eec7442fdeaf47a3/docs/images/icon-grid-overview.png";
+				screenshot = "https://raw.githubusercontent.com/thierryc/GlyphsIconGrid/cebb2dde2054e2c72a9a3ff73afee5794de9f44e/docs/images/icon-grid-overview.png";
 				descriptions = {
 					en = "*View > Show Icon Grid* draws a metric-aligned icon construction grid. Its square-cell and circular-guide spacing automatically follow the active master’s H stem.";
 				};
